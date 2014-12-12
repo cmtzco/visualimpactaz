@@ -1,0 +1,1097 @@
+# Copyright (C) 2013 ProteusThemes
+# This file is distributed under the same license as the Hairpress WP Theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hairpress WP Theme v0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/hairpress\n"
+"POT-Creation-Date: 2013-07-03 10:44:15+00:00\n"
+"PO-Revision-Date: 2013-07-03 12:45+0100\n"
+"Last-Translator: Primož Cigler <primoz.cigler@gmail.com>\n"
+"Language-Team: ProteusThemes <info@proteusthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: 404.php:5 includes/helpers.php:105
+msgid "Error 404"
+msgstr "Napaka 404"
+
+#. translators: the first string %s for line break, the second and third %s for
+#. link to home page wrap
+#: 404.php:13
+msgid ""
+"Looks like something went wrong! The page you were looking for is not here. "
+"%s Go %sHome%s or try to search"
+msgstr ""
+"Izgleda, da je nekaj šlo narobe! Stran ki jo iščeš ne obstaja. %s Pojdi na "
+"%s prvo stran %s ali poskusi z iskanjem"
+
+#: _translation/pomo/sample/app.php:56
+msgid "Welcome %s!"
+msgstr "Pozdravljen %s!"
+
+#: _translation/pomo/sample/app.php:60
+msgid "A string with low priority!"
+msgstr "Niz z nizko prioriteto!"
+
+#: _translation/pomo/sample/app.php:62
+msgid "Bye\n"
+msgstr "Adijo\n"
+
+#: archive-gallery.php:81 single-gallery.php:80
+msgid "Gallery not found"
+msgstr "Ne najdem galerije"
+
+#: archive-services.php:68 index.php:70 single.php:72
+msgid "Not Found"
+msgstr "Ne najdem"
+
+#: archive-services.php:71 front-template-page.php:60 page-no-sidebar.php:43
+#: page-right-sidebar.php:43 page.php:43 services-page.php:62
+#: single-services.php:70 single.php:75
+msgid "Page not found"
+msgstr "Ne najdem strani"
+
+#: comments.php:23
+msgid "comments"
+msgstr "komentarjev"
+
+#: comments.php:23
+msgid "comment"
+msgstr "komentar"
+
+#: comments.php:34
+msgid "Comment navigation"
+msgstr "Navigacija komentarja"
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr "&larr; Starejši komentarji"
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr "Novejši komentarji &rarr;"
+
+#: comments.php:46 comments.php:99
+msgid "Comments for this post are closed."
+msgstr "Komentarji za ta post so onemogočeni."
+
+#: comments.php:65
+msgid "Write a Comment"
+msgstr "Napiši komentar"
+
+#: comments.php:66
+msgid "Fields with * are requierd"
+msgstr "Polja z * so obvezna"
+
+#: comments.php:77
+msgid "First and Last name"
+msgstr "Ime in priimek"
+
+#: comments.php:78
+msgid "E-mail Address"
+msgstr "E-mail naslov"
+
+#: comments.php:79
+msgid "Website"
+msgstr "Spletna stran"
+
+#: comments.php:88
+msgctxt "noun"
+msgid "Your comment"
+msgstr "Tvoj komentar"
+
+#: comments.php:90
+msgid "Post A Comment"
+msgstr "Napiši komentar"
+
+#: darkstripe.php:18 titlearea.php:35
+msgid "Meet the Team"
+msgstr "Spoznaj ekipo"
+
+#: includes/custom-comments.php:41
+msgid "<p class=\"name\"><span>%s</span> said:</p>"
+msgstr "<p class=\"name\"><span>%s</span> je povedal:</p>"
+
+#. translators: 1: date, 2: time
+#: includes/custom-comments.php:47
+msgid "%1$s at %2$s"
+msgstr "%1$s ob %2$s"
+
+#: includes/custom-comments.php:47
+msgid "(Edit)"
+msgstr "(Uredi)"
+
+#: includes/custom-comments.php:55
+msgid "Your comment is awaiting moderation."
+msgstr "Tvoj komentar čaka na potrditev."
+
+#: includes/helpers.php:83
+msgid "Page %s"
+msgstr "Stran %s"
+
+#: includes/helpers.php:100
+msgid "Home Page"
+msgstr "Prva stran"
+
+#: includes/helpers.php:101
+msgid "Archive by Category &quot;%s&quot;"
+msgstr "Arhiv kategorije &quot;%s&quot;"
+
+#: includes/helpers.php:102
+msgid "Search Results for &quot;%s&quot; Query"
+msgstr "Rezultati iskanja za  &quot;%s&quot;"
+
+#: includes/helpers.php:103
+msgid "Posts Tagged &quot;%s&quot;"
+msgstr "Posti z značko &quot;%s&quot;"
+
+#: includes/helpers.php:104
+msgid "Articles Posted by %s"
+msgstr "Posti od osebe %s"
+
+#: includes/helpers.php:226
+msgid "Page"
+msgstr "Stran"
+
+#: includes/helpers.php:274
+msgid "Previous"
+msgstr "Prejšnja"
+
+#: includes/helpers.php:289
+msgid "Next"
+msgstr "Naslednja"
+
+#: includes/ot-meta-boxes.php:13 includes/ot-meta-boxes.php:56
+#: includes/ot-meta-boxes.php:111
+msgid "Hairpress Options"
+msgstr "Hairpress Nastavitve"
+
+#: includes/ot-meta-boxes.php:14 includes/ot-meta-boxes.php:57
+#: includes/ot-meta-boxes.php:112
+msgid "Options specific to Hairpress theme"
+msgstr "Nastavitve za Hairpress temo"
+
+#: includes/ot-meta-boxes.php:21 includes/ot-meta-boxes.php:64
+#: includes/ot-meta-boxes.php:119
+msgid "Subtitle"
+msgstr "Podnaslov"
+
+#: includes/ot-meta-boxes.php:22 includes/ot-meta-boxes.php:65
+#: includes/ot-meta-boxes.php:120
+msgid ""
+"Subtitle of this page (shown right below the main title). Leave blank if you "
+"don't want to show."
+msgstr ""
+"Podnaslov za to stran (prikazan takoj pod glavnim naslovom). Pusti prazno, "
+"če ne želiš prikazati podnaslova."
+
+#: includes/ot-meta-boxes.php:30 includes/ot-meta-boxes.php:93
+msgid "Background Image for Title Area"
+msgstr "Slika za ozadje na podstrani"
+
+#: includes/ot-meta-boxes.php:31 includes/ot-meta-boxes.php:94
+msgid ""
+"You can upload a custom image for the background of the title area for "
+"individual page."
+msgstr "Tukaj lahko uploadaš custom sliko za ozadje za ozadje pod naslovom"
+
+#: includes/ot-meta-boxes.php:39
+msgid "Slider Revolution alias"
+msgstr "Slider Revolution alias"
+
+#: includes/ot-meta-boxes.php:40
+msgid ""
+"Only applies to the templates \"Front Page with Revolution Slider\" and "
+"\"Front page with content\". Paste the alias of the slider you created in "
+"the Revolution Slider plugin to this box (only <a href=\"https://www.diigo."
+"com/item/image/3rli1/s9bj?size=o\">alias</a>, not the whole shortcode)."
+msgstr "Samo za templejte s sliderjem Revolution"
+
+#: includes/ot-meta-boxes.php:73
+msgid "Show on front page"
+msgstr "Pokaži na prvi strani"
+
+#: includes/ot-meta-boxes.php:74
+msgid "Show this service on the front page?"
+msgstr "Pokaži to storitev na prvi strani?"
+
+#: includes/ot-meta-boxes.php:81
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/ot-meta-boxes.php:86
+msgid "No"
+msgstr "Ne"
+
+#: includes/ot-meta-boxes.php:128
+msgid "Team Member Custom Fields"
+msgstr "Lastnosti člana ekipe"
+
+#: includes/ot-meta-boxes.php:129
+msgid ""
+"You can here define properties of the team member such as Age, Style, "
+"Education etc."
+msgstr ""
+"Tukaj lahko definirate lastnostni za člane posadke - starost, stil, "
+"izobrazbo ipd."
+
+#: includes/ot-meta-boxes.php:141
+msgid "Testimonial Options"
+msgstr "Nastavitve priporočil"
+
+#: includes/ot-meta-boxes.php:149
+msgid "Title of the author for this testimonial"
+msgstr "Naziv avtorja tega priporočila"
+
+#: includes/post-types.php:10 includes/post-types.php:21 titlearea.php:31
+msgid "Services"
+msgstr "Storitve"
+
+#: includes/post-types.php:11
+msgid "Service"
+msgstr "Storitev"
+
+#: includes/post-types.php:12 includes/post-types.php:41
+#: includes/post-types.php:70 includes/post-types.php:99
+#: includes/post-types.php:127
+msgid "Add New"
+msgstr "Dodaj novo"
+
+#: includes/post-types.php:13
+msgid "Add New Service"
+msgstr "Dodaj novo storitev"
+
+#: includes/post-types.php:14
+msgid "Edit Service"
+msgstr "Uredi storitev"
+
+#: includes/post-types.php:15
+msgid "New Service"
+msgstr "Nova storitev"
+
+#: includes/post-types.php:16
+msgid "All Services"
+msgstr "Vse storitve"
+
+#: includes/post-types.php:17
+msgid "View Service"
+msgstr "Poglej storitev"
+
+#: includes/post-types.php:18
+msgid "Search Services"
+msgstr "Išči storitve"
+
+#: includes/post-types.php:19
+msgid "No services found"
+msgstr "Ni najdenih storitev"
+
+#: includes/post-types.php:20
+msgid "No services found in Trash"
+msgstr "Ni najdenih storitev v košu"
+
+#: includes/post-types.php:39 includes/post-types.php:50
+msgid "Team"
+msgstr "Ekipa"
+
+#: includes/post-types.php:40
+msgid "Team Member"
+msgstr "Član ekipe"
+
+#: includes/post-types.php:42
+msgid "Add New Team Member"
+msgstr "Dodaj novega člana ekipe"
+
+#: includes/post-types.php:43
+msgid "Edit Team Member"
+msgstr "Uredi člana ekipa"
+
+#: includes/post-types.php:44
+msgid "New Team Member"
+msgstr "Dodaj člana ekipe"
+
+#: includes/post-types.php:45
+msgid "All Team Members"
+msgstr "Vsi člani ekipe"
+
+#: includes/post-types.php:46
+msgid "View Team Member"
+msgstr "Poglej člana ekipe"
+
+#: includes/post-types.php:47
+msgid "Search Team Members"
+msgstr "Išči člane ekipe"
+
+#: includes/post-types.php:48
+msgid "No team members found"
+msgstr "Ne najdem članov ekipe"
+
+#: includes/post-types.php:49
+msgid "No team members found in Trash"
+msgstr "Ne najdem članov ekipe v košu"
+
+#: includes/post-types.php:68
+msgid "Galleries"
+msgstr "Galerije"
+
+#: includes/post-types.php:69 includes/post-types.php:79 titlearea.php:33
+msgid "Gallery"
+msgstr "Galerija"
+
+#: includes/post-types.php:71
+msgid "Add New Gallery"
+msgstr "Dodaj novo galerijo"
+
+#: includes/post-types.php:72
+msgid "Edit Gallery"
+msgstr "Uredi galerijo"
+
+#: includes/post-types.php:73
+msgid "New Gallery"
+msgstr "Nova galerija"
+
+#: includes/post-types.php:74
+msgid "All Galleries"
+msgstr "Vse galerije"
+
+#: includes/post-types.php:75
+msgid "View Gallery"
+msgstr "Poglej galerijo"
+
+#: includes/post-types.php:76
+msgid "Search Galleries"
+msgstr "Išči galerije"
+
+#: includes/post-types.php:77
+msgid "No galleries found"
+msgstr "Ni najdenih galerij"
+
+#: includes/post-types.php:78
+msgid "No galleries found in Trash"
+msgstr "Ni najdenih galerij v košu"
+
+#: includes/post-types.php:97 includes/post-types.php:108
+msgid "Slider"
+msgstr "Slajder"
+
+#: includes/post-types.php:98
+msgid "Slide"
+msgstr "Slajd"
+
+#: includes/post-types.php:100
+msgid "Add New Slide"
+msgstr "Dodaj nov slajd"
+
+#: includes/post-types.php:101
+msgid "Edit Slide"
+msgstr "Uredi slajd"
+
+#: includes/post-types.php:102
+msgid "New Slide"
+msgstr "Nov slajd"
+
+#: includes/post-types.php:103
+msgid "All Slides"
+msgstr "Vsi slajdi"
+
+#: includes/post-types.php:104
+msgid "View Slide"
+msgstr "Poglej slajd"
+
+#: includes/post-types.php:105
+msgid "Search Slides"
+msgstr "Išči slajde"
+
+#: includes/post-types.php:106
+msgid "No slides found"
+msgstr "Ni najdenih slajdov"
+
+#: includes/post-types.php:107
+msgid "No slides found in Trash"
+msgstr "Ni najdenih slajdov v košu"
+
+#: includes/post-types.php:125 includes/post-types.php:136
+msgid "Testimonials"
+msgstr "Priporočila"
+
+#: includes/post-types.php:126
+msgid "Testimonial"
+msgstr "Priporočilo"
+
+#: includes/post-types.php:128
+msgid "Add New Testimonial"
+msgstr "Dodaj novo priporočilo"
+
+#: includes/post-types.php:129
+msgid "Edit Testimonial"
+msgstr "Uredi priporočilo"
+
+#: includes/post-types.php:130
+msgid "New Testimonial"
+msgstr "Novo priporočilo"
+
+#: includes/post-types.php:131
+msgid "All Testimonials"
+msgstr "Vsa priporočila"
+
+#: includes/post-types.php:132
+msgid "View Testimonial"
+msgstr "Poglej priporočilo"
+
+#: includes/post-types.php:133
+msgid "Search Testimonials"
+msgstr "Išči priporočila"
+
+#: includes/post-types.php:134
+msgid "No testimonial found"
+msgstr "Ni najdenih priporočil"
+
+#: includes/post-types.php:135
+msgid "No testimonial found in Trash"
+msgstr "Ni najdenih priporočil v košu"
+
+#: includes/register-sidebars.php:14
+msgid "Blog Sidebar"
+msgstr "Stranski del bloga"
+
+#: includes/register-sidebars.php:16
+msgid "Sidebar in the blog layout"
+msgstr "Stranski del v postavitvi bloga"
+
+#: includes/register-sidebars.php:32
+msgid "Services Sidebar"
+msgstr "Stranski del storitev"
+
+#: includes/register-sidebars.php:34
+msgid "Sidebar in the services layout"
+msgstr "Strani del v postavitvi storitev"
+
+#: includes/register-sidebars.php:50
+msgid "Gallery Sidebar"
+msgstr "Strani del galerije"
+
+#: includes/register-sidebars.php:52
+msgid "Sidebar in the gallery layout"
+msgstr "Stranski del v postavitvi galerije"
+
+#: includes/register-sidebars.php:65
+msgid "Contact Page Sidebar"
+msgstr "Stranski del kontaktne strani"
+
+#: includes/register-sidebars.php:67
+msgid "Sidebar on the contact us and make an appointment page"
+msgstr "Stranski del v postavitvi kontaknih strani"
+
+#: includes/register-sidebars.php:80
+msgid "Regular Page Sidebar"
+msgstr "Stranski del navadne strani"
+
+#: includes/register-sidebars.php:82
+msgid "Sidebar on the regular page"
+msgstr "Strani del v postavitvni navadne strani"
+
+#: includes/register-sidebars.php:95
+msgid "Above Slider"
+msgstr "Nad slajderjem"
+
+#: includes/register-sidebars.php:97
+msgid "Sidebar above the slider on the homepage"
+msgstr "Gradnik nad slajderjem na domači strani"
+
+#: includes/register-sidebars.php:108
+msgid "Home Page - above dark stripe"
+msgstr "Domača stran - nad temnim predelom"
+
+#: includes/register-sidebars.php:110
+msgid "Sidebar above the dark stripe on the homepage"
+msgstr "Gradniki nad temnim predelom na domači strani"
+
+#: includes/register-sidebars.php:121
+msgid "Home Page - under dark stripe"
+msgstr "Domača stran - pod temnim predelom"
+
+#: includes/register-sidebars.php:123
+msgid "Sidebar under the dark stripe on the homepage"
+msgstr "Gradniki pod temnim predelom na domači strani"
+
+#: includes/register-sidebars.php:134
+msgid "Footer"
+msgstr "Noga"
+
+#: includes/register-sidebars.php:136
+msgid "Sidebar in the dark area at the bottom of the website"
+msgstr "Gradniki v nogi strani"
+
+#: includes/theme-customizer.php:82
+msgid "Images"
+msgstr "Slike"
+
+#: includes/theme-customizer.php:83
+msgid "Images for the Hairpress theme"
+msgstr "Slike za Hairpress temo"
+
+#: includes/theme-customizer.php:87
+msgid "Contact Page"
+msgstr "Kontaktna stran"
+
+#: includes/theme-customizer.php:88
+msgid "Settings for contact page"
+msgstr "Nastavitve za kontaktno stran"
+
+#: includes/theme-customizer.php:99
+msgid "Main Theme Color"
+msgstr "Glavna barva predloge"
+
+#: includes/theme-customizer.php:108
+msgid "Buttons Color"
+msgstr "Barva gumbov"
+
+#: includes/theme-customizer.php:117
+msgid "Backgorund Color for Titles on Subpages"
+msgstr "Barva ozadja pod naslovi na podstraneh"
+
+#: includes/theme-customizer.php:126
+msgid "Color for Titles on Subpages"
+msgstr "Barva naslova na podstraneh"
+
+#: includes/theme-customizer.php:135
+msgid "Base Text Color"
+msgstr "Glavna barva predloge"
+
+#: includes/theme-customizer.php:144
+msgid "Navbar Color"
+msgstr "Barva navigacijske vrstice"
+
+#: includes/theme-customizer.php:153
+msgid "Footer Color"
+msgstr "Barva ozadja za nogo"
+
+#: includes/theme-customizer.php:162
+msgid "Logo image (recommended dimensions: 200(w) x 55(h))"
+msgstr "Logo (priporočene dimenzije: 200 x 55 pik)"
+
+#: includes/theme-customizer.php:171
+msgid "Favicon image (16 x 16 px), format .ico"
+msgstr "Fav-ikona (16 x 16 pix), format .ico"
+
+#: includes/theme-customizer.php:180
+msgid "Position of main Navbar"
+msgstr "Pozicija glavnega menija"
+
+#: includes/theme-customizer.php:185
+msgid "Fixed when scrolling"
+msgstr "Fiksno pri skrolanju"
+
+#: includes/theme-customizer.php:186
+msgid "Static position on the top"
+msgstr "Statična pozicija na vrhu"
+
+#: includes/theme-customizer.php:194
+msgid "Type of Google Maps"
+msgstr "Tip Google Zemljevida"
+
+#: includes/theme-customizer.php:199
+msgid "Normal map"
+msgstr "Navaden zemljevid"
+
+#: includes/theme-customizer.php:200
+msgid "Satellite"
+msgstr "Satelitska slika"
+
+#: includes/theme-customizer.php:201
+msgid "Hybrid"
+msgstr "Hibrid"
+
+#: includes/theme-customizer.php:202
+msgid "Terrain"
+msgstr "Teren"
+
+#: includes/theme-widgets.php:23
+msgid "Hairpress: Opening Time"
+msgstr "Hairpress: Odpiralni čas"
+
+#: includes/theme-widgets.php:25
+msgid "Opening Time Widget for placing it into the sidebar or above the slider"
+msgstr "Gradnik Odpiralni čas za v stranski del ali nad slajderjem"
+
+#: includes/theme-widgets.php:143
+msgid "Opening Time"
+msgstr "Odpiralni čas"
+
+#: includes/theme-widgets.php:175
+msgid "-"
+msgstr "-"
+
+#: includes/theme-widgets.php:182
+msgid "CLOSED"
+msgstr "ZAPRTO"
+
+#: includes/theme-widgets.php:187 includes/theme-widgets.php:465
+#: includes/theme-widgets.php:622 includes/theme-widgets.php:755
+#: includes/theme-widgets.php:893 includes/theme-widgets.php:1054
+msgid "Title:"
+msgstr "Naslov:"
+
+#: includes/theme-widgets.php:194
+msgid "opened"
+msgstr "odprto"
+
+#: includes/theme-widgets.php:196
+msgid "to"
+msgstr "do"
+
+#: includes/theme-widgets.php:202
+msgid "Separator between hours"
+msgstr "Delilnik med urami"
+
+#: includes/theme-widgets.php:207
+msgid "Text used for closed days"
+msgstr "Tekst za zaprte dni"
+
+#: includes/theme-widgets.php:236
+msgid "Hairpress: Our Services"
+msgstr "Hairpress: Naše storitve"
+
+#: includes/theme-widgets.php:238 includes/theme-widgets.php:362
+#: includes/theme-widgets.php:504 includes/theme-widgets.php:657
+#: includes/theme-widgets.php:799 includes/theme-widgets.php:924
+msgid "Use this widget only on the home page of the Hairpress theme"
+msgstr "Ta gradnik uporabljaj samo na domači strani"
+
+#: includes/theme-widgets.php:277
+msgid "Read more"
+msgstr "Beri dalje"
+
+#: includes/theme-widgets.php:286 includes/theme-widgets.php:405
+msgid "READ MORE"
+msgstr "Beri dalje"
+
+#: includes/theme-widgets.php:331
+msgid "Number of services to display:"
+msgstr "Število storitev za prikaz"
+
+#: includes/theme-widgets.php:360
+msgid "Hairpress: Latest News"
+msgstr "Hairpress: Zadnje novice"
+
+#: includes/theme-widgets.php:449
+msgid "Latest News // What is going on"
+msgstr "Zadnje novice // Kaj se dogaja"
+
+#: includes/theme-widgets.php:469
+msgid "Number of news to display"
+msgstr "Število novic za prikaz"
+
+#: includes/theme-widgets.php:473
+msgid "Text for the all posts's link"
+msgstr "Tekst za povezavo"
+
+#: includes/theme-widgets.php:502
+msgid "Hairpress: Latest Galleries"
+msgstr "Hairpress: Zadnje galerije"
+
+#: includes/theme-widgets.php:612
+msgid "Gallery // From the studio"
+msgstr "Galerija // Iz studia"
+
+#: includes/theme-widgets.php:626
+msgid "Number of galleries to display"
+msgstr "Število galerij za prikaz"
+
+#: includes/theme-widgets.php:655
+msgid "Hairpress: Three Columns"
+msgstr "Hairpress: Tri kolone"
+
+#: includes/theme-widgets.php:730
+msgid "About Us // Our interesting story"
+msgstr "O nas // Naša zanimiva štorija"
+
+#: includes/theme-widgets.php:759
+msgid "Link text"
+msgstr "Tekst povezave"
+
+#: includes/theme-widgets.php:763
+msgid "Link"
+msgstr "Povezava"
+
+#: includes/theme-widgets.php:769
+msgid "Text block"
+msgstr "Vsebina"
+
+#: includes/theme-widgets.php:797
+msgid "Hairpress: Testimonials"
+msgstr "Hairpress: Priporočila"
+
+#: includes/theme-widgets.php:889
+msgid "Testimonials // What other said about us"
+msgstr "Priporočila // Kaj drugi pravijo o nas"
+
+#: includes/theme-widgets.php:922
+msgid "Hairpress: Divider"
+msgstr "Hairpress: Razdelilnik"
+
+#: includes/theme-widgets.php:974
+msgid "Hairpress: Facebook"
+msgstr "Hairpress: Facebook"
+
+#: includes/theme-widgets.php:976
+msgid "Use this widget only in the footer of the Hairpress theme"
+msgstr "Uporabljaj samo v nogi Hairpress teme"
+
+#: includes/theme-widgets.php:1044
+msgid "Facebook // Like us"
+msgstr "Facebook // všečkajte"
+
+#: includes/theme-widgets.php:1058
+msgid "FB Page to like"
+msgstr "FB stran za všečkanje"
+
+#: index.php:41 single.php:40
+msgid "Author"
+msgstr "Avtor"
+
+#: index.php:42 single.php:41
+msgid "No comments"
+msgstr "Ni komentarjev"
+
+#: index.php:42 single.php:41
+msgid "One comment"
+msgstr "En komentar"
+
+#. translators: % represents the number, you must include it
+#: index.php:42 single.php:41
+msgid "% comments"
+msgstr "Komentarjev: %"
+
+#: index.php:43 single.php:42
+msgid "Categories"
+msgstr "Kategorije"
+
+#: index.php:43 single.php:42
+msgid "Tags"
+msgstr "Značke"
+
+#: index.php:53
+msgid "Read More"
+msgstr "Beri naprej"
+
+#: index.php:55
+msgid "Link to this post"
+msgstr "Povezava do te objave"
+
+#: index.php:73
+msgid "No posts found, sorry."
+msgstr "Ni najdenih prispevkov."
+
+#: searchform.php:4
+msgid "Go"
+msgstr "Pojdi"
+
+#: single-services.php:66
+msgid "Back to services"
+msgstr "Nazaj na storitve"
+
+#: single-team.php:51
+msgid "Age"
+msgstr "Starost"
+
+#: single-team.php:57
+msgid "Zodiac sign"
+msgstr "Astrološko znamenje"
+
+#: single-team.php:63
+msgid "Education"
+msgstr "Izobrazba"
+
+#: single-team.php:69
+msgid "Experience"
+msgstr "Izkušnje"
+
+#: single-team.php:75
+msgid "Style"
+msgstr "Stil"
+
+#: single.php:51
+msgid "Pages:"
+msgstr "Strani:"
+
+#: titlearea.php:25
+msgid "Category"
+msgstr "Kategorija"
+
+#: titlearea.php:27
+msgid "Tag"
+msgstr "Značka"
+
+#: titlearea.php:29
+msgid "Search Results For"
+msgstr "Rezultati iskanja za"
+
+#. Theme Name of the plugin/theme
+msgid "Hairpress WP Theme"
+msgstr "Hairpress WP tema"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.proteusthemes.com/themes/hairpress-wp/"
+msgstr "http://www.proteusthemes.com/themes/hairpress-wp/"
+
+#. Description of the plugin/theme
+msgid ""
+"Hairpress WP Theme is perfect for Hairsalons, Beauty Salons, Welness Centers "
+"and other local business, but it serves as good for any other type of "
+"website as well."
+msgstr ""
+"Hairpress WP tema je prfektna za frizerske, lepotne salone in wellness "
+"centre in podobna lokalna podjetja."
+
+#. Author of the plugin/theme
+msgid "ProteusThemes"
+msgstr "ProteusThemes"
+
+#. Author URI of the plugin/theme
+msgid "http://www.proteusthemes.com/"
+msgstr "http://www.proteusthemes.com/"
+
+#. Template Name of the plugin/theme
+msgid "Appointment Page"
+msgstr "Stran za oddajo naročil"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page without Sidebar"
+msgstr "Kontaktna stran brez stranskega dela"
+
+#. Template Name of the plugin/theme
+msgid "Contact Page Template"
+msgstr "Predloga za kontaktno stran"
+
+#. Template Name of the plugin/theme
+msgid "Front page with content"
+msgstr "Prva stran z Revolution Slider-jem"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Revolution Slider"
+msgstr "Prva stran z Revolution Slider-jem"
+
+#. Template Name of the plugin/theme
+msgid "Front Page with Theme Slider"
+msgstr "Prva stran z vgrajenim slajderjem"
+
+#. Template Name of the plugin/theme
+msgid "Regular Page without Sidebar"
+msgstr "Navadna stran brez stranskega dela"
+
+#. Template Name of the plugin/theme
+msgid "Regular Page with a Sidebar on the Right"
+msgstr "Navadna stran s stranskim delom na desni"
+
+#. Template Name of the plugin/theme
+msgid "Services Layout"
+msgstr "Postavitev storitev"
+
+#~ msgid "we said,"
+#~ msgstr "smo povedali,"
+
+#~ msgid "we"
+#~ msgstr "mi"
+
+#~ msgid "we were"
+#~ msgstr "mi smo bili"
+
+#~ msgid "we replied to"
+#~ msgstr "smo odgovorili na"
+
+#~ msgid "we were checking out"
+#~ msgstr "smo preverili"
+
+#~ msgid "loading tweets..."
+#~ msgstr "nalagam twitter ..."
+
+#~ msgid "Age of the team member."
+#~ msgstr "Starost osebe."
+
+#~ msgid "Zodiac sign of the team member."
+#~ msgstr "Astrološko znamenje osebe."
+
+#~ msgid "Education of the team member."
+#~ msgstr "Izobrazba osebe."
+
+#~ msgid "Experience of the team member."
+#~ msgstr "Izkušnje osebe."
+
+#~ msgid "Style of the team member."
+#~ msgstr "Stil osebe."
+
+#~ msgid "services"
+#~ msgstr "storitve"
+
+#~ msgid "the-team"
+#~ msgstr "ekipa"
+
+#~ msgid "gallery"
+#~ msgstr "galerija"
+
+#~ msgid "slide"
+#~ msgstr "slajd"
+
+#~ msgid "testimonial"
+#~ msgstr "priporocila"
+
+#~ msgid ""
+#~ "Type of Google Maps (m - normal map, k - satellite, h - hybrid, p - "
+#~ "terrain)"
+#~ msgstr "Tip Google Mape (m - navadna, k - satelit, h - hibrid, p - teren)"
+
+#~ msgid "Hairpress: Twitter"
+#~ msgstr "Hairpress: Twitter"
+
+#~ msgid "Twitter // Follow us"
+#~ msgstr "Twitter // Sledite nam"
+
+#~ msgid "Twitter username"
+#~ msgstr "Twitter up. ime"
+
+#~ msgid "about"
+#~ msgstr "približno"
+
+#~ msgid "hours ago"
+#~ msgstr "ur nazaj"
+
+#~ msgid "an hour ago"
+#~ msgstr "uro nazaj"
+
+#~ msgid "minutes ago"
+#~ msgstr "minut nazaj"
+
+#~ msgid "seconds ago"
+#~ msgstr "sekund nazaj"
+
+#~ msgid "Monday"
+#~ msgstr "Ponedeljek"
+
+#~ msgid "Tuesday"
+#~ msgstr "Torek"
+
+#~ msgid "Wednesday"
+#~ msgstr "Sreda"
+
+#~ msgid "Thursday"
+#~ msgstr "Četrtek"
+
+#~ msgid "Friday"
+#~ msgstr "Petek"
+
+#~ msgid "Saturday"
+#~ msgstr "Sobota"
+
+#~ msgid "Sunday"
+#~ msgstr "Nedelja"
+
+#, fuzzy
+#~ msgid "Left Sidebar"
+#~ msgstr "Stranski del bloga"
+
+#, fuzzy
+#~ msgid "Right Sidebar"
+#~ msgstr "Stranski del bloga"
+
+#, fuzzy
+#~ msgid "Full Width (no sidebar)"
+#~ msgstr "Navadna stran brez stranskega dela"
+
+#, fuzzy
+#~ msgid "Dual Sidebar"
+#~ msgstr "Stranski del bloga"
+
+#, fuzzy
+#~ msgid "Left Dual Sidebar"
+#~ msgstr "Strani del galerije"
+
+#, fuzzy
+#~ msgid "Right Dual Sidebar"
+#~ msgstr "Stranski del navadne strani"
+
+#, fuzzy
+#~ msgid "Edit"
+#~ msgstr "(Uredi)"
+
+#, fuzzy
+#~ msgid "Title"
+#~ msgstr "Naslov:"
+
+#, fuzzy
+#~ msgid "New Layout"
+#~ msgstr "Postavitev storitev"
+
+#, fuzzy
+#~ msgid "Category Select"
+#~ msgstr "Kategorija"
+
+#, fuzzy
+#~ msgid "Category Checkbox"
+#~ msgstr "Kategorija"
+
+#, fuzzy
+#~ msgid "Textblock"
+#~ msgstr "Vsebina"
+
+#, fuzzy
+#~ msgid "Textblock Titled"
+#~ msgstr "Vsebina"
+
+#, fuzzy
+#~ msgid "Add Media"
+#~ msgstr "Dodaj novo"
+
+#, fuzzy
+#~ msgid "No Categories Found"
+#~ msgstr "Ni najdenih galerij"
+
+#, fuzzy
+#~ msgid "No Posts Found"
+#~ msgstr "Ne najdem"
+
+#, fuzzy
+#~ msgid "No Pages Found"
+#~ msgstr "Ne najdem"
+
+#, fuzzy
+#~ msgid "No Tags Found"
+#~ msgstr "Ne najdem"
+
+#, fuzzy
+#~ msgid "No Taxonomies Found"
+#~ msgstr "Ni najdenih galerij"
+
+#, fuzzy
+#~ msgid "Add Section"
+#~ msgstr "Izobrazba"
+
+#, fuzzy
+#~ msgid "Contextual Help Sidebar"
+#~ msgstr "Stranski del kontaktne strani"
+
+#, fuzzy
+#~ msgid "Save Layouts"
+#~ msgstr "Postavitev storitev"
+
+#, fuzzy
+#~ msgid "Reset Options"
+#~ msgstr "Nastavitve priporočil"
+
+#, fuzzy
+#~ msgid "Theme Options UI"
+#~ msgstr "Nastavitve priporočil"
+
+#, fuzzy
+#~ msgid "Theme Options"
+#~ msgstr "Nastavitve priporočil"
+
+#, fuzzy
+#~ msgid "Documentation"
+#~ msgstr "Navigacija komentarja"
+
+#, fuzzy
+#~ msgid "Creating Options"
+#~ msgstr "Nastavitve priporočil"

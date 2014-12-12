@@ -1,0 +1,5 @@
+[29-Jan-2014 09:36:29 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/visual/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[29-Jan-2014 09:36:33 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/visual/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[11-Mar-2014 15:10:53 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/visual/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[07-Aug-2014 13:01:47 Europe/Berlin] PHP Fatal error:  Call to undefined function add_action() in /home/visual/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[07-Aug-2014 13:01:50 Europe/Berlin] PHP Fatal error:  Call to undefined function add_filter() in /home/visual/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3

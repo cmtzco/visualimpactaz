@@ -1,0 +1,144 @@
+//  ========== 
+//  = Social icons = 
+//  ========== 
+
+
+// create sprites using Compass
+$inactive-sprite-dimensions: true;
+$active-sprite-dimensions: true;
+
+@import "social-icons/inactive/*.png";
+@import "social-icons/active/*.png";
+
+.social-icons {
+  position: absolute;
+  bottom: 10px;
+  right: 0;
+  z-index: 99; 
+}
+
+// single
+.social-icon {
+  display: inline-block;
+  @include transition(background 1s ease-in-out);
+  
+  > .inactive {
+    display: inline-block;
+    @include transition(opacity 0.3s ease-in-out);
+  }
+  &:hover > .inactive {
+    @include opacity(0);
+  }
+  &.twitter {
+    @include active-sprite(twitter);
+    
+    > .inactive {
+      @include inactive-sprite(twitter);
+    }
+  }
+  &.facebook {
+    @include active-sprite(facebook);
+    
+    > .inactive {
+      @include inactive-sprite(facebook);
+    }
+  }
+  &.youtube {
+    @include active-sprite(youtube);
+    
+    > .inactive {
+      @include inactive-sprite(youtube);
+    }
+  }
+  &.rss {
+    @include active-sprite(rss);
+    
+    > .inactive {
+      @include inactive-sprite(rss);
+    }
+  }
+  &.stumble {
+    @include active-sprite(stumble);
+    
+    > .inactive {
+      @include inactive-sprite(stumble);
+    }
+  }
+  &.skype {
+    @include active-sprite(skype);
+    
+    > .inactive {
+      @include inactive-sprite(skype);
+    }
+  }
+  &.tumblr {
+    @include active-sprite(tumblr);
+    
+    > .inactive {
+      @include inactive-sprite(tumblr);
+    }
+  }
+  &.rss {
+    @include active-sprite(rss);
+    
+    > .inactive {
+      @include inactive-sprite(rss);
+    }
+  }
+  &.pinterest {
+    @include active-sprite(pinterest);
+    
+    > .inactive {
+      @include inactive-sprite(pinterest);
+    }
+  }
+  &.linkedin {
+    @include active-sprite(linkedin);
+    
+    > .inactive {
+      @include inactive-sprite(linkedin);
+    }
+  }
+  &.google {
+    @include active-sprite(google);
+    
+    > .inactive {
+      @include inactive-sprite(google);
+    }
+  }
+  &.vimeo {
+    @include active-sprite(vimeo);
+    
+    > .inactive {
+      @include inactive-sprite(vimeo);
+    }
+  }
+  &.mail {
+    @include active-sprite(mail);
+    
+    > .inactive {
+      @include inactive-sprite(mail);
+    }
+  }
+  &.favorites {
+    @include active-sprite(favorites);
+    
+    > .inactive {
+      @include inactive-sprite(favorites);
+    }
+  }
+  &.flickr {
+    @include active-sprite(flickr);
+    
+    > .inactive {
+      @include inactive-sprite(flickr);
+    }
+  }
+  &.instagram {
+    @include active-sprite(instagram);
+    
+    > .inactive {
+      @include inactive-sprite(instagram);
+    }
+  }
+}

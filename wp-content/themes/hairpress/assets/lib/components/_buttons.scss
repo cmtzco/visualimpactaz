@@ -1,0 +1,35 @@
+//  ========== 
+//  = Buttons for the HairPress HTML template = 
+//  ========== 
+
+.btn {
+  &.rounded-2 {
+    @include border-radius(2px);
+  }
+  &.rounded-6 {
+    @include border-radius(6px);
+  }
+  &.rounded-10 {
+    @include border-radius(10px);
+  }
+  &.rounded {
+    @include border-radius(99px);
+  }
+}
+
+#comments-submit-button,
+form[action*="login.php"] input[type="submit"] {
+  @include buttonBackground($btn-clr, darken($btn-clr, 10%));
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  @include border-radius(3px);
+  @include box-shadow(none);
+  font-family: 'PT Sans';
+  padding: 9px 12px;
+  display: block;
+}
+#comments-submit-button {
+  float: right;
+}
+  
